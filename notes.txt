@@ -1,11 +1,11 @@
-Where does eclipse deploy wars with Tomcat server
+>Where does eclipse deploy wars with Tomcat server
 
 Server Path: .metadata/.plugins/org.eclipse.wst.server.core/tmp0
 Deploy Path: wtpwebapps
 
 Source: http://stackoverflow.com/questions/2119351/where-does-eclipse-deploy-web-applications-using-wtp
 
-How do I reload .bashrc without logging out and back in?
+>How do I reload .bashrc without logging out and back in?
 
 You just have to enter the command: source ~/.bashrc
 or you can use the shorter version of the command: . ~/.bashrc
